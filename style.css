@@ -2,6 +2,19 @@ header {
     background-color: blue;
     color: black;
     text-align: center;
-    font-size: 60pt;
+    /* font-size: 30pt; */
     font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif
+}
+
+/* Alterar a espessura da linha/borda */
+.categoria {
+    width: 100%;
+    height: 3px;
+    border-top: 3px solid black;
+}
+
+.titulo_categoria {
+position: relative   ;
+left: 1rem;
+
 }
