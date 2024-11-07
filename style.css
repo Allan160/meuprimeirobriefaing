@@ -12,3 +12,9 @@ header {
     height: 3px;
     border-top: 3px solid black;
 }
+
+.titulo_categoria {
+position: relative;
+left: 3rem;
+
+}
